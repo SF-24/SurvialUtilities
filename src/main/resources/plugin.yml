@@ -1,0 +1,10 @@
+name: SurvivalUtils
+version: '${project.version}'
+main: com.xpkitty.survivalutils.SurvivalUtils
+prefix: [ SurvivalUtils ]
+authors: [ XpKitty ]
+description: A plugin for Minecraft which introduces a few small utilities
+commands:
+  survivalutils:
+    aliases: [ su, sutils, utils, sutil, util, survivalutil ]
+    description: Main command for SurvivalUtils plugin
